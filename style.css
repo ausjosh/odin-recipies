@@ -1,0 +1,19 @@
+p{
+    color: rgb(250, 178, 71);
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+img{
+    text-align: center;
+    width: 400px;
+    height: auto;     
+}
+div{
+    text-align: center;
+}
+body{
+    background-color: rgba(0, 100, rgb(111, 111, 240), .4);
+}
